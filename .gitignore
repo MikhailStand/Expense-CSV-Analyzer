@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+output/*.png
+output/*.txt
+output/*.xlsx
+!output/.gitkeep
+.DS_Store
